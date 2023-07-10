@@ -1,0 +1,13 @@
+name = "Server Utilities"
+author = "badooga"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a31d00b63710524314d7912ec084b047f0c94ad1aecbdf44f782e670cc72a8a2"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.3"
