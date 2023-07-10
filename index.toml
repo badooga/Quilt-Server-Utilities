@@ -31,6 +31,11 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/commandstructures.pw.toml"
+hash = "f137fc2a66157a916f0fd6dd49393b57a1bc63607f57948820e1fd6add2b5bd8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "174b0eb748b63e98a6568b7d37bd7532f268b1fd22cbb624f82349e19e8ec148"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/structure-void-toggle.pw.toml"
+hash = "f56d1f9bf06e5d50068acbc3fb465046895ea8b37a51e868dc647c184c1421b7"
 metafile = true
 
 [[files]]
