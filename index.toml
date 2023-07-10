@@ -16,8 +16,18 @@ hash = "b0c84806bc32028e006144a81865ff5180614bb8146ffc265a905bb2c6c3e1bb"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "27b096c8d024c3c935c4c8f099da3516f0a111e61f2e36a995a79b3f9c08dd53"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
@@ -26,13 +36,43 @@ hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
 metafile = true
 
 [[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "ae3387e1b13eae0eb58f66c74d1ec847362c657b66ae91f17bd1d5d299292885"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
+metafile = true
+
+[[files]]
 file = "mods/commandstructures.pw.toml"
 hash = "f137fc2a66157a916f0fd6dd49393b57a1bc63607f57948820e1fd6add2b5bd8"
+metafile = true
+
+[[files]]
+file = "mods/cyanide.pw.toml"
+hash = "f45d7cd223f352cc6c05c5ad8ae5b9f90c9cbfbc5ba401eb55faf29d1d87e662"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-commands.pw.toml"
+hash = "57c9caf4bf8672ad746745da3fa831a94c7a3b9ee2389dfd6a84e3272cc5545f"
+metafile = true
+
+[[files]]
+file = "mods/fastback.pw.toml"
+hash = "2390d30094085788d665ad947f74217f01f85ed33785c581018d7a3e6ff881fe"
 metafile = true
 
 [[files]]
@@ -51,8 +91,38 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/no-portals.pw.toml"
+hash = "5733a5a3fa9fec88ae3b42739086f63c7cd0513cac88a0362a6567c9bf1c6533"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
+metafile = true
+
+[[files]]
+file = "mods/restart-server.pw.toml"
+hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
 metafile = true
 
 [[files]]
