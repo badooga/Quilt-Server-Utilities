@@ -26,6 +26,11 @@ hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "0f67402e8edd973bcc4e5f514ddfc8d7a42acc7a38d72cec2da291f1035fcc38"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
@@ -66,8 +71,18 @@ hash = "f45d7cd223f352cc6c05c5ad8ae5b9f90c9cbfbc5ba401eb55faf29d1d87e662"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-commands.pw.toml"
 hash = "57c9caf4bf8672ad746745da3fa831a94c7a3b9ee2389dfd6a84e3272cc5545f"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "7b254fbbdb60ec50e5840a102bd16846fa4c9b2633886f82d1c6cf4b90f98786"
 metafile = true
 
 [[files]]
@@ -126,13 +141,28 @@ hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
 metafile = true
 
 [[files]]
+file = "mods/server-controls.pw.toml"
+hash = "3ae5adfbd11f0fa87e516409892bc1151255dfbab72360a086086981add671df"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
 metafile = true
 
 [[files]]
@@ -143,6 +173,21 @@ metafile = true
 [[files]]
 file = "mods/structure-void-toggle.pw.toml"
 hash = "f56d1f9bf06e5d50068acbc3fb465046895ea8b37a51e868dc647c184c1421b7"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "fd25d5fa4114515b81e849948be698daa3b9a9bb220165871d9e281e7fc32e4a"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
 metafile = true
 
 [[files]]
