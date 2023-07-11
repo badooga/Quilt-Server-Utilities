@@ -66,6 +66,11 @@ hash = "f137fc2a66157a916f0fd6dd49393b57a1bc63607f57948820e1fd6add2b5bd8"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
+metafile = true
+
+[[files]]
 file = "mods/cyanide.pw.toml"
 hash = "f45d7cd223f352cc6c05c5ad8ae5b9f90c9cbfbc5ba401eb55faf29d1d87e662"
 metafile = true
@@ -198,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
-metafile = true
-
-[[files]]
-file = "mods/structure-void-toggle.pw.toml"
-hash = "f56d1f9bf06e5d50068acbc3fb465046895ea8b37a51e868dc647c184c1421b7"
 metafile = true
 
 [[files]]
