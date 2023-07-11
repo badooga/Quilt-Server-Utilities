@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "572f7335b4036ae8c0dc64d91f82463a770d07023798410705a6d65def42350a"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "93beadb849d251357dda6a301d610eeb49e5b04f6d077b5957efcde67ed65438"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "c446a2d6ed316f509a1a51234ecd0468a462c30ced0bacdde428350ef83a9a22"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "5f61474ecbe911737cf44479f5bdd2779f99df4a9a12b89006db8e9ea18ddf88"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
