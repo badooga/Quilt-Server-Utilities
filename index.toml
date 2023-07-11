@@ -130,11 +130,6 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
-file = "mods/lilylib.pw.toml"
-hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
