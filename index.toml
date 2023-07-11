@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "174b0eb748b63e98a6568b7d37bd7532f268b1fd22cbb624f82349e19e8ec148"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e322a7ff1a300edcd29320206634eed36eab9a8b06e4e9142d163d89da341bb4"
+hash = "e7c8b5dc13ef2dc2888842a2044c3bf4ea1750975db63bf467f9cf0f2eda411d"
 metafile = true
 
 [[files]]
