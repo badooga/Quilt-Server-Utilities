@@ -80,11 +80,6 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
-file = "mods/collective.pw.toml"
-hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
-metafile = true
-
-[[files]]
 file = "mods/commandstructures.pw.toml"
 hash = "f137fc2a66157a916f0fd6dd49393b57a1bc63607f57948820e1fd6add2b5bd8"
 metafile = true
@@ -92,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
 hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
-metafile = true
-
-[[files]]
-file = "mods/cyanide.pw.toml"
-hash = "f45d7cd223f352cc6c05c5ad8ae5b9f90c9cbfbc5ba401eb55faf29d1d87e662"
 metafile = true
 
 [[files]]
@@ -112,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/easyauth.pw.toml"
 hash = "09efac6bf90884e17bfa5dd19964f94d87bc26a0ab9397c09a7fd369282db64a"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-commands.pw.toml"
-hash = "57c9caf4bf8672ad746745da3fa831a94c7a3b9ee2389dfd6a84e3272cc5545f"
 metafile = true
 
 [[files]]
