@@ -76,6 +76,16 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/disableinsecurechattoast.pw.toml"
+hash = "31091b58e636fc7072e3dc799b445a6e0c3aa90488a6036c256e0967f2527f8c"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "09efac6bf90884e17bfa5dd19964f94d87bc26a0ab9397c09a7fd369282db64a"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-commands.pw.toml"
 hash = "57c9caf4bf8672ad746745da3fa831a94c7a3b9ee2389dfd6a84e3272cc5545f"
 metafile = true
@@ -96,8 +106,18 @@ hash = "174b0eb748b63e98a6568b7d37bd7532f268b1fd22cbb624f82349e19e8ec148"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "fb895dcf5858adba539fa4afbaf183308e10e23c9e5cb7f619e5ffa1281781cd"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/lilylib.pw.toml"
+hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
 metafile = true
 
 [[files]]
@@ -131,6 +151,11 @@ hash = "5733a5a3fa9fec88ae3b42739086f63c7cd0513cac88a0362a6567c9bf1c6533"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
 metafile = true
@@ -138,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/restart-server.pw.toml"
 hash = "65660f3f2941f9a62273665ee083c7ef58c1da1e12054480635cf26b4b6108a2"
+metafile = true
+
+[[files]]
+file = "mods/rules.pw.toml"
+hash = "c866c9f1d4f7ee4e42327a1bac6c99d1377d57c1d4eb5a0c61999d87aa94ce59"
 metafile = true
 
 [[files]]
@@ -173,6 +203,16 @@ metafile = true
 [[files]]
 file = "mods/structure-void-toggle.pw.toml"
 hash = "f56d1f9bf06e5d50068acbc3fb465046895ea8b37a51e868dc647c184c1421b7"
+metafile = true
+
+[[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
