@@ -24,5 +24,8 @@ For a few of the mods here, a word of caution is adviced:
 
 If you don't want to include a mod for any reason, disabling it will not cause any issues.
 
+## Installation
+To install the `mrpack` on your server, see [here](https://docs.modrinth.com/docs/modpacks/playing_modpacks/).
+
 ## Updates
 Updates to this modpack to future game versions are likely, but aren't guaranteed. However, you are free to fork the GitHub repo according to the MIT license.
