@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "7c934cf1049493f3c6689c952f87eaf1270b8b567760a5ffd4d4825f1cd0aee4"
+
+[[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "572f7335b4036ae8c0dc64d91f82463a770d07023798410705a6d65def42350a"
 
@@ -196,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+hash = "16a6dd1290f13c07ab2af6e2264c1b1d4de79caa36890e7592a302005575d068"
 metafile = true
 
 [[files]]
@@ -221,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "6aff337052721d3ef1002097c546e6b57888c29424e54237326d6341de65ac42"
+hash = "c16e7a3d823d8ec6bae57420fe55d48844b04ab49479e7a19adc1d75f63741d3"
 metafile = true
 
 [[files]]
