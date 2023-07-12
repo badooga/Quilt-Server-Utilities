@@ -16,6 +16,10 @@ In addition to the core mods of the pack, some optional mods are supplied in cas
 - Hey That's Mine and Yet Another World Protector, to protect inventories and land from griefing
 - Essential Commands, for plugin commands like `/home` and `/back` on a casual server
 
+A list of mods is given below; mods without checkboxes are optional, and thus are disabled by default in most launchers.
+
+<img src="https://github.com/badooga/Quilt-Server-Utilities/assets/33851191/6ead5c05-7538-4ed4-9d63-e06040e8b705" alt="List of included mods" width="300" />
+
 ### Notes
 For a few of the mods here, a word of caution is adviced:
 - While usually very stable, C2ME and VMP are experimental mods, and should be tested to make sure they work well on your server.
