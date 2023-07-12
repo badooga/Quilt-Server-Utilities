@@ -2,7 +2,7 @@
 Building off of [Adrenaserver](https://modrinth.com/modpack/adrenaserver), this modpack takes your server to the next level by optimizing its performance, creating new configuration options to customize it to your liking, and adding new admin commands to make running it as smooth as possible.
 
 ## Included Mods
-Included in this pack are mods that I thought would be useful for a wide range of servers:
+Included in this pack are mods that I thought would be useful for a wide range of servers, working as a foundation for further customization:
 - Optimization mods provided by Adrenaserver that improve all aspects of server performance
 - Essential server utilities for world pregeneration, anti-xray, privacy, and debugging
 - Server management tools for maintenance, scheduling restarts, and world backups
@@ -14,7 +14,7 @@ In addition to the core mods of the pack, some optional mods are supplied in cas
 - Simple Voice Chat, for communication between players on the server
 - Simple Discord Link, for linking your server chat to a Discord channel and vice versa
 - Hey That's Mine and Yet Another World Protector, to protect inventories and land from griefing
-- Essential Commands, for commands like `/home` and `/back` on a casual server
+- Essential Commands, for plugin commands like `/home` and `/back` on a casual server
 
 ### Notes
 For a few of the mods here, a word of caution is adviced:
