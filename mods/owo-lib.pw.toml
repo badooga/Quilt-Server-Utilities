@@ -11,3 +11,6 @@ hash = "7b1250bec079bd2a116fcdd453f42f5929b8cfe4"
 [update.modrinth]
 mod-id = "ccKDOlHs"
 version = "m23n3uIM"
+
+[option]
+optional = true

@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/autowhitelist.pw.toml"
-hash = "2c641f4f0ee96191fb0f31e6c31059ee0e5f7bf461e27bce537e73abfaeaaa8c"
+hash = "0a66235174cde584a569da6facbc9cc50763e06dd4b3cf2bcf5d5bc5e035b2ed"
 metafile = true
 
 [[files]]
@@ -56,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+hash = "b7e4d3f9c445c851c4b786c4fd2535518871af14f137f6120d9eeea827c92a20"
 metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "0f67402e8edd973bcc4e5f514ddfc8d7a42acc7a38d72cec2da291f1035fcc38"
+hash = "a2de43c8b561a66be860a592ac3851fc680c5b78137d4391e5892500cc8a17a5"
 metafile = true
 
 [[files]]
@@ -95,6 +95,11 @@ hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "7735e0d48763373944fe6d82560319f7e9f77987459e303cdcdd9b94e677fbf5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "9e227753a8c768f359cb281a82c884d41294784b41e263866b55fcd01b63ba9e"
+hash = "7385a3597eb60fa3d9a39c541e171210d8c83fc08638ec7cb0e96cbc98de1657"
 metafile = true
 
 [[files]]
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/htm.pw.toml"
-hash = "96acf6b8340a6a2eef00505b25a9b231b456b6094355f56d85fe59575bc026b0"
+hash = "0cc9e1a58c46092daefb4f49688577717527c1de9e03e9ed5568835b8164a3f1"
 metafile = true
 
 [[files]]
@@ -151,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
+hash = "f74f39fe19b22512b716cc4ce5b13187743b99886e999f11b6fa8894c8c57138"
 metafile = true
 
 [[files]]
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "879f42a9c6ede67873e773764319cc52105db1c5bfdd540878c9a28eaa0c5561"
+hash = "e65e90b257bcd01300a71e2450e9c6718df1eb6896009678ea67b9c28d625b14"
 metafile = true
 
 [[files]]
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/rules.pw.toml"
 hash = "c866c9f1d4f7ee4e42327a1bac6c99d1377d57c1d4eb5a0c61999d87aa94ce59"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "6aff337052721d3ef1002097c546e6b57888c29424e54237326d6341de65ac42"
 metafile = true
 
 [[files]]
@@ -271,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/yawp.pw.toml"
-hash = "e03020bd073a068d934b45ac4f9152c0437755595581d945ed3c2ee4b82e2554"
+hash = "19f438c569fcd663e7600d4a6427d176580433e3845cb46bfa66c2215f83786c"
 metafile = true
 
 [[files]]
