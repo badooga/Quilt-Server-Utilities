@@ -20,7 +20,7 @@ In addition to the core mods of the pack, some optional mods are supplied in cas
 For a few of the mods here, a word of caution is adviced:
 - While usually very stable, C2ME and VMP are experimental mods, and should be tested to make sure they work well on your server.
 - Because of the way it optimizes redstone, Alternate Current can deviate from vanilla behavior, breaking TNT duping and other edge cases.
-- Some of the mods here (particularly the optional ones) don't do much by default - you will need to configure them yourself as you see fit. Play around with the settings first before
+- Some of the mods here (particularly the optional ones) don't do much by default - you will need to configure them yourself as you see fit. Play around with the settings first before playing for real.
 
 If you don't want to include a mod for any reason, disabling it will not cause any issues.
 
