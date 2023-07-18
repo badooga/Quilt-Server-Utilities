@@ -21,7 +21,7 @@ file = "config/yosbr/config/servercore.toml"
 hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
 
 [[files]]
-file = "config/yosbr/config/smoothboot.json"
+file = "config/yosbr/config/threadtweak.json"
 hash = "c446a2d6ed316f509a1a51234ecd0468a462c30ced0bacdde428350ef83a9a22"
 
 [[files]]
@@ -241,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "def13e087ed4969aeb2f3da05ce5bbb6be4ac34d2346ba1b042c8046e3a45fef"
-metafile = true
-
-[[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
 
 [[files]]
